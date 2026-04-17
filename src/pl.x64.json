@@ -384,6 +384,16 @@
 			"homepage": "https://github.com/dail8859/DoxyIt"
 		},
 		{
+		  	"folder-name": "DraftSync",
+		  	"display-name": "DraftSync",
+		  	"version": "0.1",
+		  	"id": "d94ba09eb64f63c7b5274c8f45058f22c5eeeffecf886ca528f1662aca37475c",
+		  	"repository": "https://github.com/belarrem/DraftSync/releases/download/v0.1/DraftSync_x64.zip",
+		  	"description": "Syncs scratch notes across machines via a shared folder. If you like to fire up Notepad++ to take a quick note and wish it followed you to another machine, this plugin is for you. No accounts, no servers, just a folder.",
+		  	"author": "Mohammed Belarrem",
+		  	"homepage": "https://github.com/belarrem/DraftSync"
+		},
+		{
 			"folder-name": "DSpellCheck",
 			"display-name": "DSpellCheck",
 			"version": "1.5.0",
